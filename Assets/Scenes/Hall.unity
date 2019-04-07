@@ -5066,8 +5066,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< HEAD
-=======
 --- !u!1 &461747139
 GameObject:
   m_ObjectHideFlags: 0
@@ -5249,7 +5247,6 @@ MonoBehaviour:
   - {fileID: 996782988}
   - {fileID: 1544564304}
   - {fileID: 479172707}
->>>>>>> master
 --- !u!1 &465798620
 GameObject:
   m_ObjectHideFlags: 0
